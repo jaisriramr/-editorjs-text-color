@@ -1,0 +1,21 @@
+{
+  "name": "editorjs-text-color",
+  "version": "0.0.5",
+  "description": "This is a external plugin for text color specifically created for editor.js",
+  "main": "./cjs/index.js",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "keywords": [
+    "editorjs",
+    "typescript"
+  ],
+  "author": "jaisriramr",
+  "license": "ISC",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.28.2"
+  },
+  "private": false
+}
